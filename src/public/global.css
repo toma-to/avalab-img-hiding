@@ -1,0 +1,35 @@
+#restore-mode-button {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+}
+#restore-mode-button:hover {
+  cursor: pointer;
+  background-color: azure;
+}
+
+.restore-mode-active {
+  color: darkred;
+}
+.material-icons.md-48 {
+  font-size: 48px;
+}
+.material-icons.md-36 {
+  font-size: 36px;
+}
+
+.image-delete-parent {
+  position: relative;
+}
+.image-delete-button {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+}
+.image-delete-button:hover {
+  cursor: pointer;
+  background-color: azure;
+}
+.image-delete-button-active {
+  color: darkred;
+}

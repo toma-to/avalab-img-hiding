@@ -1,0 +1,19 @@
+{
+  "name": "avalab-extension",
+  "version": "1.0.0",
+  "description": "Avalab.ai拡張",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && vite build --emptyOutDir",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "npx prettier . --write"
+  },
+  "author": "toma",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.268",
+    "prettier": "3.3.2",
+    "typescript": "^5.4.5",
+    "vite": "^5.3.1"
+  }
+}

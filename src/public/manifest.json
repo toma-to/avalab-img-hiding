@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Avalab.aiの生成画像を非表示にするやつ",
+  "description": "Avalab.aiの生成画像を非表示とする拡張機能。",
+  "version": "1.0",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["https://avalab.ai/generate"],
+      "js": ["index.js"],
+      "css": ["global.css"]
+    }
+  ]
+}
