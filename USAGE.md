@@ -1,10 +1,12 @@
 # Avalab.aiの生成画像を非表示にするやつの使い方
 
 ## インストール
-1. [リリースページ](https://github.com/toma-to/avalab-img-hiding/releases)から、最新のavalab-img-hiding-x.x.x.zipファイルをダウンロード。
-1. 任意のフォルダにzipファイルを展開。
-1. Chromeの拡張機能として追加。
-ローカルファイルをChrome拡張機能に追加する方法は`Chrome拡張機能 ローカル 追加`とかでGoogle先生に聞いてください。
+[Chromeウェブストア](https://chromewebstore.google.com/detail/avalabai%E3%81%AE%E7%94%9F%E6%88%90%E7%94%BB%E5%83%8F%E3%82%92%E9%9D%9E%E8%A1%A8%E7%A4%BA%E3%81%AB%E3%81%99%E3%82%8B%E3%82%84%E3%81%A4/fbclhllnfobiljecgjlboegnjhepondh)からインストールしてください。
+
+### GitHubからzip版をローカルインストールしていた方へ
+zip版を削除し、ウェブストア公開版をインストールしなおすことをお勧めします。  
+ただし、zip版からウェブストア公開版に切り替えた場合、今までの非表示設定はクリアされますのでご注意ください。  
+（更新があった場合、引き続きGitHubにてzipは公開しますので、すでに大量の非表示設定をしており非表示設定がクリアされると困る方はそのままzip版をご利用ください）
 
 ## 使用方法
 ### 画像の非表示
